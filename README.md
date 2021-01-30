@@ -1,1 +1,1 @@
-This is rparamo's first git project using The Odin Project! 
+This is rparamo's first git project using The Odin Project!
